@@ -6,6 +6,8 @@
 # Repository: https://github.com/mgdemartino/SphAutSpec
 # Version: v00, Feb 2026
 #
+# ***** Material under construction *****
+#
 # Conventions (following Bourbaki, Planches I-IX):
 #   1. Let V and V' be the relevant vector spaces where the geometry takes place.
 #   2. We input the 'dual root system' (coroot system): R' lives in V'.
